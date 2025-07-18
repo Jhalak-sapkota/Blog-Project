@@ -1,7 +1,7 @@
 # Blog API Assignment – Jhalak Sapkota
 
 ## Project Description
-This is a simple Blog Management API with CRUD functionality built using Spring Boot and MySQL.
+This is a simple Blog Management API with CRUD functionality built using Spring Boot and PostgresSQL.
 
 ## Technologies Used
 - Java 17
@@ -14,7 +14,3 @@ This is a simple Blog Management API with CRUD functionality built using Spring 
 - GET http://localhost:8080/api/blog/list
 - GET http://localhost:8080/api/blog/{id}
 - PUT http://localhost:8080/api/blog/update/{id}
-
-## Notes
-- Ensure your database server is running.
-- Spring Boot automatically creates the required table.
